@@ -1,3 +1,3 @@
-Marcin Kaczor
+Marcin
 23/10/2025
 XD
