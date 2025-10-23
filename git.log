@@ -1,0 +1,81 @@
+commit 5809d185f2063db2f7265537bcf5640eaf959787
+Merge: 136afdf 72d3884
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:29:16 2025 +0200
+
+    changed surname
+
+commit 136afdfbb122ed4600b937d289de34261586bdf1
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:27:46 2025 +0200
+
+    changed surname
+
+commit 72d3884813d7839876e12e9d40701a83319ecf9c
+Author: MartinDuck <162925821+QuackyWizard@users.noreply.github.com>
+Date:   Thu Oct 23 14:25:43 2025 +0200
+
+    Simplify name format in README
+
+commit f8e2354f2bad72cc313c6b8933e7bbf6503976d3
+Merge: 0c2e8d4 e7f1474
+Author: MartinDuck <162925821+QuackyWizard@users.noreply.github.com>
+Date:   Thu Oct 23 14:23:25 2025 +0200
+
+    Merge pull request #1 from QuackyWizard/branch1
+    
+    Branch1
+
+commit e7f14743739597b230fc4805672119b7ff4c6705
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:19:31 2025 +0200
+
+    Modified README
+
+commit fd22674a1fda70660356b6a7eb54cbdad98350a6
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:19:14 2025 +0200
+
+    Modified .gitignore
+
+commit 9604e930efaabda117edc91f74cbe1ba89b040ae
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:18:12 2025 +0200
+
+    Modified Program.java
+
+commit 0c2e8d402e51670dcf8add1360a25e34313cbcf9
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:14:37 2025 +0200
+
+    Added gitignore
+
+commit 21ce80ffcdcda2f6889859aed9ecb9240556a729
+Author: MartinDuck <162925821+QuackyWizard@users.noreply.github.com>
+Date:   Thu Oct 23 14:06:39 2025 +0200
+
+    Added date to README
+
+commit 93ecee69c9ce82b66748161486aaffdcdf684d03
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 14:02:58 2025 +0200
+
+    Added Program.java
+
+commit 1da700a83e96051e9b7a071dd56afbb9673de53c
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 13:57:24 2025 +0200
+
+    Added name to README
+
+commit 89e28177b6e33f6c60a8d03ed09bde5f6f13578a
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 13:54:43 2025 +0200
+
+    Added README.md
+
+commit 1d7671965c751c224eca205fb78c1a31eedb23da
+Author: Marcin Kaczor <marcinkwa2@gmail.com>
+Date:   Thu Oct 23 13:52:50 2025 +0200
+
+    Added README
